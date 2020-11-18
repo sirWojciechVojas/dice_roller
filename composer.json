@@ -9,6 +9,8 @@
             "email": "wojciech.vojas@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "diceRoller\\": "src/"
