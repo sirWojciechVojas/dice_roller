@@ -3,3 +3,5 @@ Thumbs.db
 /textures/Thumbs.db
 *.sublime-workspace
 *.sublime-project
+
+/vendor/
